@@ -48,4 +48,4 @@ TBA
 - [Official Marlin firmware website](https://marlinfw.org/)
 - [Marlin sources](https://github.com/MarlinFirmware/Marlin)
 - [Thingiverse](https://www.thingiverse.com/)
-- [Cluts3D](https://cults3d.com/en)
+- [Cults3D](https://cults3d.com/en)
