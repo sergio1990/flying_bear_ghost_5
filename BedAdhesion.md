@@ -6,4 +6,7 @@ Once starting googling how to get the first layer stick to the bed I quickly rea
 
 First of all the clean and leveled bed is a must have for the good bed adhesion - but only this didn't help me. Then I learned we can use some means to improve the bed adhesion. I tried the glue stick - but still no luck.
 
-The thing which really helped me is a 3D adhesive spray - you simply spray several layers of it on the clean bed and it should be enough for up to 5-8 prints without any issues of sticking initial layer to the bed.
+What really helped me is a 3D adhesive spray - you spray several layers of it on the clean bed and it should be enough for up to 5-8 prints without any issues of sticking the initial layer to the bed. I bought the following one (I assume it's available only in Ukraine, but there are a lot of different sprays available all over the world):
+
+<img src="./images/3d_adhesion_spray_1.jpg" width=300/>
+<img src="./images/3d_adhesion_spray_2.jpg" width=300/>
