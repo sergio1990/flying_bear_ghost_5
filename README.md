@@ -31,6 +31,14 @@ The pinout of the MKS Robin Nano v1.2 board is presented below in two variants:
 <img src="./images/robin_nano_v1_2_pinout.png" width=600/>
 <img src="./images/robin_nano_v1_2_pinout_photo.webp" width=600/>
 
+## Calibrations
+
+- [Bed Adhesion](BedAdhesion.md)
+
+## Improvements
+
+TBA
+
 ## Useful resources
 
 - [Flying Bear Ghost Club](https://flyingbearghost.com/en/)
