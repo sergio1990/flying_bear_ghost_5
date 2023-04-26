@@ -34,6 +34,7 @@ The pinout of the MKS Robin Nano v1.2 board is presented below in two variants:
 ## Calibrations
 
 - [Bed Adhesion](BedAdhesion.md)
+- [Bed Leveling](BedLeveling.md)
 
 ## Improvements
 
