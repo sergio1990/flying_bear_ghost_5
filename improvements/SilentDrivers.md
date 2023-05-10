@@ -66,6 +66,10 @@ Vreftmc2208 = Irms * (2.5 / 1.77) = 1.177 V
 
 __‼️ CAUTION:__ disconnect motors from drivers when setting the Vref!
 
+The final view of the mainboard with new drivers:
+
+<img src="./images/tmc2208_3.jpg" width="500"/>
+
 ### Final steps
 
 Once done all of the described, all movements are finally silent! But the
