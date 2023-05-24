@@ -42,6 +42,7 @@ The pinout of the MKS Robin Nano v1.2 board is presented below in two variants:
 - [Silent Motor Drivers](improvements/SilentDrivers.md)
 - [Cooling](improvements/Cooling.md)
 - [Custom Marlin](improvements/CustomMarlin.md)
+- [OctoPrint](improvements/Octoprint.md)
 
 ## Useful resources
 
