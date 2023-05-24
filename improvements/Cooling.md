@@ -29,3 +29,19 @@ After trying to run the same temp calibration tower the result was quite pleasan
 Even at the temperature of 210 degrees the bridge became pretty much
 acceptable although we can observe a definitely signs of filament oozing
 meaning this temperature is too high for the printing.
+
+## Update from 24/05/2023
+
+Accidentally, I came accross another [fan duct
+model](https://www.thingiverse.com/thing:5496036), which transfers a cooled air
+from 2 sides. I decided to give it a try and that's what I got using it:
+
+<img src="./images/cooling_24052023_tower.jpg" width="400"/>
+
+Basically, the improvement of the print is very noticable - oozing and
+stringing almost gone, and the bridge is quite good for almost all
+temperatures!
+
+And that's how the fan duct looks printed using the PETG filament:
+
+<img src="./images/cooling_24052023_duct.jpg" width="400"/>
