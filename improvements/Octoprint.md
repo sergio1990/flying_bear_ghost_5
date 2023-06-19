@@ -29,4 +29,22 @@ the obico.io.
 
 ## Plugins
 
-TBA...
+### [Bed Visualizer](https://github.com/jneilliii/OctoPrint-BedLevelVisualizer)
+
+> This plugin visualises the output from various firmware that support bed mesh leveling.
+
+In order to let this plugin to show the bed levels chart I put this gcode into the plugin's settings:
+
+```gcode
+G28       ; home all axes
+M155 S30  ; reduce temperature reporting rate to reduce output pollution
+@BEDLEVELVISUALIZER
+M117 Loading existing mesh data ; send message to printer display
+M420 S1 V; Load existing mesh
+M155 S3  ; restore temperature reporting rate
+M117 Visualized; update display
+```
+
+Once done that the plugin shows the bed levels as a 3D chart:
+
+<img src="./images/octoprint_bed_visualizer_example_1.png" width=500/>
