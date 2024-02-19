@@ -11,12 +11,7 @@ good. Here I'd simply like to share my config files without any further
 explanations how to use them since as I've mentioned earlier there are a lot of
 information available all over the Internet.
 
-Under the [resources/custom_marlin](https://github.com/sergio1990/flying_bear_ghost_5/tree/main/improvements/resources/custom_marlin) folder you can find the next files:
-
-- `Configuration.h`
-- `Configuration_adv.h`
-- `Robin_nano35.bin`
-
-All of these files represents the latest Marlin configuration and the build,
-which I used on my copy of the FB Ghost 5 3D printer. All of the mentioned
-files will be changed over time.
+The custom Marlin setup can be found in a separate
+[repository](https://github.com/sergio1990/FBG5_Marlin) - this is a fork of the
+original Marlin repository with the applying configuration specific for my
+printer.
